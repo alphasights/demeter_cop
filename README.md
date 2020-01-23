@@ -1,4 +1,4 @@
-# DemeterCop
+# DemeterCop [![CircleCI](https://circleci.com/gh/alphasights/demeter_cop.svg?style=svg)](https://circleci.com/gh/alphasights/demeter_cop)
 
 DemeterCop is a simple tool that let you watch a Ruby object and record which methods and method chains are being called on it.
 
